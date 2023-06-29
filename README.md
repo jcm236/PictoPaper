@@ -1,7 +1,7 @@
 # PictoPaper
 PictoPaper is a lightweight wallpaper application for LXDE 
 
-# Installation
+# Installation and Use
 - First download the zip archive.
 - Now extract the .zip file.
 - Now open the terminal and cd to the extracted folder.
