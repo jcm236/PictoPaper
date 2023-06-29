@@ -9,7 +9,7 @@ PictoPaper is a lightweight wallpaper application for LXDE
   ```
   pip3 install .
   ```
-## - You may now delete the extracted folder as PictoPaper has been installed.
+#### - You may now delete the extracted folder as PictoPaper has been installed.
 - Now you can launch pictopaper form the command line using:
   ```
   pictopaper
