@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PictoPaper
+Version=v1.0
+Icon=lxde-icon
+X-Icon-Path=/usr/share/lxde/images/
+Exec=pictopaper
+Terminal=true
+Type=Application
